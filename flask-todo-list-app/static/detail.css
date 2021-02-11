@@ -1,0 +1,11 @@
+body {
+  background-image: url("background_2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.card{
+  padding: 10px 600px 10px 600px;
+  position: relative;
+  margin: auto;
+ }

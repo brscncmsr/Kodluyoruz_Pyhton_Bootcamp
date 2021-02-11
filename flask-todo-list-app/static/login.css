@@ -1,0 +1,48 @@
+body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+form {
+  padding: 100px 10px 100px 10px;
+  padding-top: 16px;
+}
+.form-group{
+  padding: 10px 600px 10px 600px;
+  padding-top: 20px;
+
+}
+
+.button-row {
+  padding: 20px;
+}
+
+.button-col {
+  text-align: center;
+}
+
+.button {
+  background-color: #f7403c;
+  border-color: #ffc001;
+}
+
+.button:hover {
+  background-color: #fb513b;
+  border-color: skyblue;
+}
+
+label {
+  color: azure;
+}
+
+.signup-label {
+  font-size: 18px;
+}
+
+.check-col {
+  text-align: center;
+  padding: 12px;
+  padding-bottom: 0;
+  top: 10px;
+}
